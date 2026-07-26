@@ -482,10 +482,10 @@ def predict_only():
 
 
 if __name__ == "__main__":
-import os
-
-app.run(
-    debug=False,
-    host="0.0.0.0",
-    port=int(os.environ.get("PORT", 5000))
-)
+    import os
+    
+    app.run(
+        debug=False,
+        host="0.0.0.0",
+        port=int(os.environ.get("PORT", 5000))
+    )
