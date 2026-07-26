@@ -66,9 +66,7 @@ ResumeIQ-AI/
 │
 ├── Front end/
 │   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
+│   
 ├── .gitignore
 ├── README.md
 ---
