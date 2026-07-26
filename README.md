@@ -1,4 +1,7 @@
 # ResumeIQ AI — ATS Resume Checker
+## Live Demo
+
+https://resumeiq-ai-pqc0.onrender.com/
 
 ResumeIQ AI is an AI-powered ATS resume analysis platform that helps candidates improve their resumes by analyzing ATS compatibility, keyword matching, resume structure, and career category prediction.
 
