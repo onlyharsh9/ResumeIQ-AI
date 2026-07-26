@@ -49,20 +49,28 @@ The system uses Natural Language Processing (NLP) techniques and an Artificial N
 
 ## 📂 Project Structure
 
-ResumeIQ-AI/
-|
-|-- backend/
-|   |-- app.py
-|   |-- resume_ann_model.keras
-|   |-- requirements.txt
-|
-|-- frontend/
-|   |-- index.html
-|   |-- style.css
-|   |-- script.js
-|
-|-- README.md
+📂 Project Structure
 
+ResumeIQ-AI/
+│
+├── Backend/
+│   ├── app.py
+│   ├── index.html
+│   ├── requirements.txt
+│   ├── runtime.txt
+│   └── resume_ann_model.keras
+│
+├── Data Preprocessing/
+│   ├── ResumeIQ_AI.ipynb
+│   └── Data Set.zip
+│
+├── Front end/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+├── .gitignore
+├── README.md
 ---
 
 ## ⚙️ Installation & Setup
